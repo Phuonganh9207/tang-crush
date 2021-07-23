@@ -1,19 +1,15 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'helu babeee',
+    introDesc: `Em có điều này muốn hỏi anhhh, hãy trả lời thật lòng nhé`,
+    btnIntro: 'Ok nè',
+    title: 'Anh có yêu em khônggg?',
+    desc: 'Nếu anh không trả lời mà thoát ra thì tức là chồng em nhé :))',
+    btnYes: 'Coá, anh yêu em vlll :3 ',
+    btnNo: 'Không, em bị ngáo à?',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em?',
+    btnReply: 'Gửi cho emm <3',
+    reply: 'Tại em xinh xinh xinh vl',
+    mess: 'Em biết anh yêu em mà :))',
+    messDesc: 'Mãi iu anhhh hihii',
+    btnAccept: 'Okiiiii yêu em <3',
+    messLink: 'gamevuicuanguyenphuonganhxinhdep}
